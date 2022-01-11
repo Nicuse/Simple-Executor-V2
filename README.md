@@ -1,5 +1,7 @@
 # Simple Executor V2 Download Guide
 
+<!-- PROJECT LOGO -->
+
 Download Link:
 
 ### Guide:
