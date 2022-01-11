@@ -1,6 +1,6 @@
 # Simple Executor V2 Download Guide
 
-<!-- PROJECT LOGO -->
+<img src="images/Png.png" alt="Png" width="80" height="80">
 
 Download Link:
 
