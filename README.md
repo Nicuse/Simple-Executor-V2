@@ -17,7 +17,7 @@ Download Link:
 
 ## FAQ
 - Is it a virus?
-No it's not a virus, Antiviruses may flag it as malware or a virus, It's false, all executors you will download (even the one everyone uses) will be flagged as a virus.
+-- No it's not a virus, Antiviruses may flag it as malware or a virus, It's false, all executors you will download (even the one everyone uses) will be flagged as a virus.
 - Executor Not Attaching Or Launch
-Before doing anything, Make sure your antivirus is off.
-Then try to run the program as administrator.
+-- Before doing anything, Make sure your antivirus is off.
+-- Then try to run the program as administrator.
