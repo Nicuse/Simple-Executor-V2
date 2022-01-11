@@ -1,6 +1,6 @@
 # Simple Executor V2 Download Guide
 
-<img src="images/Png.png" alt="MainLogo" width="284" height="284">
+<img src="images/Png.png" alt="MainLogo" width="156" height="156">
 
 Download Link:
 
