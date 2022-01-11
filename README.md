@@ -1,6 +1,6 @@
 # Simple Executor V2 Download Guide
 
-<img src="images/Png.png" alt="Png" width="80" height="80">
+<img src="images/Png.png" alt="Png" width="512" height="512">
 
 Download Link:
 
