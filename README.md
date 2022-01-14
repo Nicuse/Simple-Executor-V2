@@ -17,6 +17,8 @@ Download Link: https://cdn.discordapp.com/attachments/929790736906461244/9304891
 - Execute Script You Have (paste in the textbox or use a script from script hub)
 - You're set, enjoy hacking!
 
+FULL GUIDE: https://youtu.be/TsZg2-tTXMs
+
 ## FAQ
 - Is it a virus?
 - No it's not a virus, Antiviruses may flag it as malware or a virus, It's false, all executors you will download (even the one everyone uses) will be flagged as a virus.
