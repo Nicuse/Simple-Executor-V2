@@ -7,6 +7,8 @@
 Screenshot Of Executor:
 <img src="images/SCREENSHOT59.png" alt="ScreenShot" width="800" height="450">
 
+By Installing or running the program, you automatically agree to our [terms of service](https://github.com/Nicuse/Simple-Executor-V2/blob/main/TermsOfService).
+
 ## Guide:
 - Turn Off Your AntiVirus (no virus, it's just flagged as a virus)
 - Download The Executor (of course dummy)
