@@ -3,13 +3,9 @@
 ## Added Or Changed
 
 - NEW SCRIPT HUB SCRIPTS!
-- KRNL FEATURES
-
-## Last Update
-
-- EasyExploits API
-- Faster Loading
-- Improvements
+- KRNL SCRIPTS (NOT THAT MUCH)
+- TOOLS TAB
+- REMOVED LOADING DIALOGUE/POPUP AFTER LOADED!
 
 ## Features
 
