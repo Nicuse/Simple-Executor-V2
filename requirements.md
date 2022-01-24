@@ -7,3 +7,8 @@
 - [VC Redist x64](https://aka.ms/vs/16/release/vc_redist.x64.exe)
 - [VC Redist x86](https://aka.ms/vs/16/release/vc_redist.x86.exe)
 - [Webclient Roblox](https://www.roblox.com/download)
+
+### Other programs.
+- A extracter like WinRAR Or 7-Zip or the default one.
+[WinRAR](https://www.win-rar.com/)
+[7-Zip](https://www.7-zip.org/)
