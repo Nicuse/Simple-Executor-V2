@@ -2,7 +2,7 @@
 
 <img src="images/Png.png" alt="MainLogo" width="156" height="156">
 
-[Download Here (64-bit)](https://cdn.discordapp.com/attachments/929790736906461244/934496230363517008/SimpleExecutorV2Version1.2.6.zip)
+[Download Here (64-bit)](https://cdn.discordapp.com/attachments/929790736906461244/936583419444461578/SimpleExecutorV2.VERSION1.2.7.zip)
 
 Screenshot Of Executor:
 <img src="images/SCREENSHOT59.png" alt="ScreenShot" width="800" height="450">
