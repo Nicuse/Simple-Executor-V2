@@ -24,3 +24,5 @@ By Installing or running the program, you automatically agree to our [terms of s
 - You're set, enjoy hacking!
 
 FULL GUIDE: https://youtu.be/TsZg2-tTXMs
+
+I do not promote unfair advantage over other players.
