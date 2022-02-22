@@ -2,7 +2,7 @@
 
 <img src="images/Png.png" alt="MainLogo" width="156" height="156">
 
-- [Download Here (64-bit)](https://cdn.discordapp.com/attachments/929790736906461244/936583419444461578/SimpleExecutorV2.VERSION1.2.7.zip)
+- [Download Here (64-bit)](https://cdn.discordapp.com/attachments/929790736906461244/945773936354938901/SimpleExecutorV2VERSION1.2.8.zip)
 - [Requirements](https://github.com/Nicuse/Simple-Executor-V2/blob/main/requirements.md)
 - If you know how to install it. When installed run "SimpleExecutorV2.exe" not "loader.exe"
 
