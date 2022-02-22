@@ -4,6 +4,7 @@
 
 - [Download Here (64-bit)](https://cdn.discordapp.com/attachments/929790736906461244/936583419444461578/SimpleExecutorV2.VERSION1.2.7.zip)
 - [Requirements](https://github.com/Nicuse/Simple-Executor-V2/blob/main/requirements.md)
+- If you know how to install it. When installed run "SimpleExecutorV2.exe" not "loader.exe"
 
 Screenshot Of Executor:
 <img src="images/SCREENSHOT59.png" alt="ScreenShot" width="800" height="450">
