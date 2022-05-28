@@ -2,7 +2,7 @@
 
 <img src="images/Png.png" alt="MainLogo" width="156" height="156">
 
-- [Download Here (64-bit)](https://se.nicuse.repl.co/V1.2.9.zip)
+- [Download Here (64-bit)](https://cdn.discordapp.com/attachments/944941820373270528/979782561997926460/SEV2_V1.2.9.zip)
 - [Requirements](https://github.com/Nicuse/Simple-Executor-V2/blob/main/requirements.md)
 - If you know how to install it. When installed run "SimpleExecutorV2.exe" not "loader.exe"
 
