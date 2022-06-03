@@ -1,1 +1,1 @@
-Update log @ [Click here]("https://se.nicuse.repl.co/Update_Logs/")
+Update log @ https://se.nicuse.repl.co/Update_Logs/
