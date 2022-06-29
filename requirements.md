@@ -1,6 +1,6 @@
 # Requirements
 
-## Simple Executor needs these software/applications to perform and work properly
+# Necessary programs
 - [Windows 10](https://www.microsoft.com/en-us/software-download/windows10) or [Windows 11](https://www.microsoft.com/en-us/software-download/windows11)
 - 64 Bit Installation
 - [Microsoft .NET Framework 4.8 or above](https://dotnet.microsoft.com/en-us/download/dotnet-framework)
