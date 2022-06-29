@@ -1,5 +1,3 @@
-# Requirements
-
 # Necessary programs
 - [Windows 10](https://www.microsoft.com/en-us/software-download/windows10) or [Windows 11](https://www.microsoft.com/en-us/software-download/windows11)
 - 64 Bit Installation
