@@ -9,6 +9,4 @@
 - [Webclient Roblox](https://www.roblox.com/download)
 
 ### Other programs.
-- A extracter like WinRAR Or 7-Zip or the default one.
-[WinRAR](https://www.win-rar.com/)
-[7-Zip](https://www.7-zip.org/)
+- A extracter like [WinRAR](https://www.win-rar.com/) Or [7-Zip](https://www.7-zip.org/) or the default one.
