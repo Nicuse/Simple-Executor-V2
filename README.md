@@ -13,17 +13,13 @@ By Installing or running the program, you automatically agree to our [terms of s
 
 ## Guide:
 - Turn Off Your AntiVirus (no virus, it's just flagged as a virus)
-- Download The Executor (of course dummy)
+- Download The Executor
 - Launch it.
 - You're set.
 
 ## Execution Guide
 - Get in a roblox game (must be website roblox)
 - Launch Executor
-- Attach DLL (WeAreDevs Or EasyExploits Or KRNL)
+- Attach DLL
 - Execute Script You Have (paste in the textbox or use a script from script hub)
-- You're set, enjoy hacking!
-
-FULL GUIDE: https://youtu.be/TsZg2-tTXMs
-
-I do not promote unfair advantage over other players.
+- You're set, enjoy exploiting!
