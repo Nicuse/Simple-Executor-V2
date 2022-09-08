@@ -3,7 +3,6 @@
 
 - [Download Here (64-bit)](https://cdn.nicuse.repl.co/SEV2_1.3.3.zip)
 - [Requirements](https://github.com/Nicuse/Simple-Executor-V2/blob/main/requirements.md)
-- If you know how to install it. When installed run "SimpleExecutorV2.exe" not "loader.exe"
 
 By Installing or running the program, you automatically agree to our [terms of service](https://github.com/Nicuse/Simple-Executor-V2/blob/main/TermsOfService).
 
