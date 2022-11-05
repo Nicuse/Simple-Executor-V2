@@ -1,5 +1,5 @@
 # Simple Executor V2 Download Guide
-## ⚠️WARNING⚠️ USING THIS EXECUTOR MAY GET YOU BANNED AS IT IS OUTDATED
+## ⚠️WARNING⚠️ USING THIS EXECUTOR MAY GET YOU BANNED DUE TO ROBLOX'S NEW ANTICHEAT ("BYFRON"), SEV2 IS DISCONTINUED. YOUR ACCOUNT IS YOUR RESPONSIBILITY
 <img src="images/Png.png" alt="MainLogo" width="156" height="156">
 
 - [Download Here (64-bit)](https://cdn.nicuse.repl.co/SEV2_1.3.3.zip)
