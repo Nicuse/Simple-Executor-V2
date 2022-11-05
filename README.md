@@ -1,4 +1,5 @@
 # Simple Executor V2 Download Guide
+## ⚠️WARNING⚠️ USING THIS EXECUTOR MAY GET YOU BANNED AS IT IS OUTDATED
 <img src="images/Png.png" alt="MainLogo" width="156" height="156">
 
 - [Download Here (64-bit)](https://cdn.nicuse.repl.co/SEV2_1.3.3.zip)
